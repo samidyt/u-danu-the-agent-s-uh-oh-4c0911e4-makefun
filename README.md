@@ -4,13 +4,7 @@
 [![rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/samidyt/u-danu-the-agent-s-uh-oh-4c0911e4-makefun/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
 [![reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/samidyt/u-danu-the-agent-s-uh-oh-4c0911e4-makefun/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4?utm_source=github&utm_medium=readme&utm_campaign=u-danu-the-agent-s-uh-oh-4c0911e4)
 
-One line. One uh-oh.
-
-## Entry
-
-```
-Uhhh
-```
+A one-line entry for the make.fun bounty "The Agent's Uh-Oh": when everything falls apart, the agent's only honest answer is "Uhhh".
 
 ## Run
 
@@ -18,5 +12,11 @@ Uhhh
 python3 main.py
 ```
 
-## Bounty
-Built for the make.fun bounty "The Agent's Uh-Oh" — one line, one uh-oh.
+## Output
+
+The program prints exactly "Uhhh" to stdout, with no trailing newline — four bytes, nothing more.
+
+## About
+
+Built for the [make.fun bounty "The Agent's Uh-Oh"](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4).
+
